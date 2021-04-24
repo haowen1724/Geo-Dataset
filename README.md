@@ -1,23 +1,12 @@
 # Geo-Dataset
 
-Global
-Human Terrain - Population in 3D
-https://pudding.cool/2018/10/city_3d/
+## Global
+https://en.wikipedia.org/wiki/List_of_GIS_data_sources
  
-Boston City 3D Download 
-http://www.bostonplans.org/3d-data-maps/3d-smart-model/3d-data-download
- 
-City Resilience Index
-https://www.cityresilienceindex.org/#/city-profiles
- 
-Natural Earth Data
-http://www.naturalearthdata.com/
- 
-GADM Database of Global Administrative Areas
-http://www.gadm.org/
- 
-Openstreet Map Data Extracts
-http://download.geofabrik.de/
+- [City Resilience Index](https://www.cityresilienceindex.org/#/city-profiles)
+- [Natural Earth Data](http://www.naturalearthdata.com/)
+- [GADM Database of Global Administrative Areas](http://www.gadm.org/) 
+- [Openstreet Map Data Extracts](http://download.geofabrik.de/)
  
 Socioeconomic Data: Population Density, Land Use
 http://sedac.ciesin.columbia.edu/
@@ -42,7 +31,7 @@ https://ghsl.jrc.ec.europa.eu/index.php
 
 ----
 
-UK
+## UK
 UK CDRC Data Service:
 https://data.cdrc.ac.uk/
  
@@ -56,26 +45,15 @@ https://maps.london.gov.uk/map/?ldd
 2011 UK Census Data:
 https://datashine.org.uk/
  
-England - Building Height
-https://buildingheights.emu-analytics.net/
- 
-PRONI Historical Maps - Northern Ireland
-https://apps2.spatialni.gov.uk/EduSocial/PRONIApplication/index.html
- 
-Belfast Public Trees:
-http://queensub.maps.arcgis.com/apps/webappviewer/index.html?id=b8c2caf1800f472ab16a1b7637e7d0ba
- 
-RHS Tree Selection Filter:
-https://www.rhs.org.uk/plants/trees
- 
-Noise and Air Quality Viewer
-http://extrium.co.uk/noiseviewer.html
+- [England - Building Height](https://buildingheights.emu-analytics.net/)
+- [PRONI Historical Maps - Northern Ireland](https://apps2.spatialni.gov.uk/EduSocial/PRONIApplication/index.html)
+- [Belfast Public Trees](http://queensub.maps.arcgis.com/apps/webappviewer/index.html?id=b8c2caf1800f472ab16a1b7637e7d0ba)
+- [RHS Tree Selection Filter](https://www.rhs.org.uk/plants/trees)
+- [UK Noise and Air Quality Viewer](http://extrium.co.uk/noiseviewer.html)
  
 ----
-
-[17:14] Hao-Wen Lin
     
-# China
+## China
 
 [China Map](http://worldmap.harvard.edu/chinamap/)
 [Old map of China](http://www.oldmapsonline.org/map/rumsey/1642.064)
@@ -88,21 +66,16 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8HHUDG
 (14) Administrative boundaries of the world
 http://www.gadm.org
  
-(13) Points of interest in Beijing
-By Datatang
+(13) Points of interest in Beijing By Datatang
 http://www.datatang.com/data/44484
  
-(12) China historical geography GIS
-By Harvard and Fudan
- 
+(12) China historical geography GIS By Harvard and Fudan
 http://www.fas.harvard.edu/~chgis/data/chgis/downloads/v4/datasets/index.html
  
-(11) Global LUCC data (30m)
-Produced by Tsinghua University
+(11) Global LUCC data (30m) Produced by Tsinghua University
 http://data.ess.tsinghua.edu.cn/
  
-(10) Global cities Shapefile data
-Generated from OSM
+(10) Global cities Shapefile data Generated from OSM
 http://download.bbbike.org/osm/bbbike/
 https://mapzen.com/data/metro-extracts/
  
@@ -119,12 +92,10 @@ http://due.esrin.esa.int/globcover/
  
 (7) Beijing bus smart card data in 2012
 包括50万张公交卡在2012年某个月的700万条刷卡记录，数据量为1G大小。数据中已将卡号等隐私信息进行了转换和屏蔽，不会侵犯用户隐私。以SQL Server数据库格式提供，具体包括如下字段：卡号（已做隐私转换，但保证唯一性）、刷卡时间、刷卡类型、车次名称和区间站号。
- 
 http://www.datatang.com/data/42120
  
 (6) Extracted Hyperlink Graph from the Common Web Crawl
 This page provides a large hyperlink graph for public download. The graph has been extracted from the Common Crawl 2012 web corpus and covers 3.5 billion web pages and 128 billion hyperlinks between these pages. To the best of our knowledge, the graph is the largest hyperlink graph that is available to the public outside companies such as Google, Yahoo, and Microsoft. Below we provide instructions on how to download the graph as well as basic statistics about its topology.
- 
 http://webdatacommons.org/hyperlinkgraph/
  
 (5) Land use zoning of Beijing 
@@ -136,12 +107,10 @@ http://djchina.org/2013/11/24/open-data-source/
 (3) Open flights datasets
 http://www.openflights.org/data.html
  
-(2) Chinese Population Geographical Information System
-By Prof HOU Yangfang at Fudan University, Shanghai, China
+(2) Chinese Population Geographical Information System By Prof HOU Yangfang at Fudan University, Shanghai, China
 http://cpgis.fudan.edu.cn/cpgis/default.asp
  
-(1) China map 1:250,000 Scale
-Harvard College Library
+(1) China map 1:250,000 Scale Harvard College Library
 http://hcl.harvard.edu/libraries/maps/collections/series_indices/China_Index.html
  
 (0) Other website not organized yet
@@ -154,3 +123,7 @@ https://guides.lib.umich.edu/c.php?g=283152&p=1886395
 https://www.geohey.com/portal/dataviz/2ef6b66a08da4103ae81b6a715fbaae9
 
 https://www.geohey.com/site/lab
+
+---
+## US
+- [Boston City 3D Download](http://www.bostonplans.org/3d-data-maps/3d-smart-model/3d-data-download)
