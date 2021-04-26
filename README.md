@@ -7,36 +7,19 @@ https://en.wikipedia.org/wiki/List_of_GIS_data_sources
 - [Natural Earth Data](http://www.naturalearthdata.com/)
 - [GADM Database of Global Administrative Areas](http://www.gadm.org/) 
 - [Openstreet Map Data Extracts](http://download.geofabrik.de/)
- 
-Socioeconomic Data: Population Density, Land Use
-http://sedac.ciesin.columbia.edu/
- 
-Atlas of Urban Expansion: Data
-http://www.atlasofurbanexpansion.org/data
- 
-Density Atlas (Density Data of Cities)
-http://densityatlas.org/casestudies/profile.php?id=125
- 
-United Nations Data:
-https://esa.un.org/unpd/wup/DataQuery/
- 
-PSD Climate and Weather data:
-https://www.esrl.noaa.gov/psd/data/
- 
-Nasa Earth Observations:
-https://neo.sci.gsfc.nasa.gov/
- 
-Global Human Settlement Layer:
-https://ghsl.jrc.ec.europa.eu/index.php
+- [Socioeconomic Data: Population Density, Land Use](http://sedac.ciesin.columbia.edu/)
+- [Atlas of Urban Expansion: Data](http://www.atlasofurbanexpansion.org/data)
+- [Density Atlas (Density Data of Cities)](http://densityatlas.org/casestudies/profile.php?id=125)
+- [United Nations Data](https://esa.un.org/unpd/wup/DataQuery/)
+- [PSD Climate and Weather data](https://www.esrl.noaa.gov/psd/data/)
+- [Nasa Earth Observations](https://neo.sci.gsfc.nasa.gov/)
+- [Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/index.php)
 
 ----
 
 ## UK
-UK CDRC Data Service:
-https://data.cdrc.ac.uk/
- 
-UK LiDar Data:
-https://environment.data.gov.uk/DefraDataDownload/?Mode=survey
+- [UK CDRC Data Service](https://data.cdrc.ac.uk/)
+- [UK LiDar Data](https://environment.data.gov.uk/DefraDataDownload/?Mode=survey)
  
 London Data:
 https://data.london.gov.uk/dataset
