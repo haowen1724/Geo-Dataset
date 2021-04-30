@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/List_of_GIS_data_sources
 - [Nasa Earth Observations](https://neo.sci.gsfc.nasa.gov/)
 - [Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/index.php)
 
+- [Weather Data epw - Energy Plus](https://energyplus.net/)
+
 ----
 
 ## UK
@@ -49,20 +51,16 @@ https://en.wikipedia.org/wiki/List_of_GIS_data_sources
 1868至1943外交史料http://t.cn/S2ynIM 中国有关部分http://t.cn/zOGwAwt 亚洲历史资料中心有中文版http://t.cn/SLyheo 防卫省防卫研究所http://t.cn/zOGwAwc 北京数字历史地图及照片http://t.cn/zOGZgts 京都大學北京历史地图http://t.cn/zOGZsbr
 很多北京历史图片和地图。http://t.cn/zOGZgtF。总的网站是http://t.cn/zOGZgts，一层一层能看到很多资料。
 乾隆京城地图，在日本网站上，可以下载图片和pdf。http://t.cn/zOGZmbf
- 
 - GlobCover
 "The GlobCover Portal provides access to the results of the GlobCover project.
 GlobCover is an ESA initiative which began in 2005 in partnership with JRC, EEA, FAO, UNEP, GOFC-GOLD and IGBP. The aim of the project was to develop a service capable of delivering global composites and land cover maps using as input observations from the 300m MERIS sensor on board the ENVISAT satellite mission. ESA makes available the land cover maps, which cover 2 periods: December 2004 - June 2006 and January - December 2009."
 http://due.esrin.esa.int/globcover/
-
 - Beijing bus smart card data in 2012
 包括50万张公交卡在2012年某个月的700万条刷卡记录，数据量为1G大小。数据中已将卡号等隐私信息进行了转换和屏蔽，不会侵犯用户隐私。以SQL Server数据库格式提供，具体包括如下字段：卡号（已做隐私转换，但保证唯一性）、刷卡时间、刷卡类型、车次名称和区间站号。
 http://www.datatang.com/data/42120
- 
 - Extracted Hyperlink Graph from the Common Web Crawl
 This page provides a large hyperlink graph for public download. The graph has been extracted from the Common Crawl 2012 web corpus and covers 3.5 billion web pages and 128 billion hyperlinks between these pages. To the best of our knowledge, the graph is the largest hyperlink graph that is available to the public outside companies such as Google, Yahoo, and Microsoft. Below we provide instructions on how to download the graph as well as basic statistics about its topology.
 http://webdatacommons.org/hyperlinkgraph/
- 
 - [Land use zoning of Beijing](http://www.bjdata.gov.cn/tabid/93/Default.aspx?did=186)
 - [Dozens of open data in China in an external website](http://djchina.org/2013/11/24/open-data-source/)
 - [Open flights datasets](http://www.openflights.org/data.html)
