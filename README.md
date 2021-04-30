@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/List_of_GIS_data_sources
 - [Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/index.php)
 
 - [Weather Data epw - Energy Plus](https://energyplus.net/)
-
+- [Weather Data epw - map interface](https://www.ladybug.tools/epwmap/)
 ----
 
 ## UK
